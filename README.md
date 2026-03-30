@@ -12,6 +12,22 @@ This project involves end-to-end data analysis of an E-Commerce Sales dataset us
 
 ---
 
+## 📸 Dashboard Preview
+
+> Built entirely in Microsoft Excel using Pivot Charts, Slicers, and PivotTables.
+
+![E-Commerce Sales Analytics Dashboard](screenshots/dashboard.png)
+
+**What's visible in the dashboard:**
+- **Revenue by Category** — Clustered bar chart comparing Total Revenue, Profit, Average Order Value, and Count across 5 categories
+- **Payment Type** — Pie chart showing PayPal (35%), COD (33%), Credit Card (32%) split
+- **Revenue by Store Type** — Bar chart: Online ($914K) leads, followed by Flagship ($848K) and Outlet ($411K)
+- **Revenue by Gender** — Horizontal bar comparing Male vs Female revenue and profit
+- **Sum by Loyalty Level** — Platinum customers dominate at $656K, followed by Bronze ($522K), Gold ($517K), Silver ($460K)
+- **Revenue by Region & Gender** — 3D clustered chart breaking down East, North, South, West by gender
+
+---
+
 ## 🏗️ Dataset Structure (Star Schema)
 
 The project uses a **dimensional data model** with 4 tables:
