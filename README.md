@@ -16,7 +16,7 @@ This project involves end-to-end data analysis of an E-Commerce Sales dataset us
 
 > Built entirely in Microsoft Excel using Pivot Charts, Slicers, and PivotTables.
 
-![E-Commerce Sales Analytics Dashboard](screenshots/dashboard.png)
+![E-Commerce Sales Analytics Dashboard](https://raw.githubusercontent.com/arunc12/E-Commerce-Sales-Analytics-Excel-Capstone-/main/Dashboard%201.png)
 
 **What's visible in the dashboard:**
 - **Revenue by Category** — Clustered bar chart comparing Total Revenue, Profit, Average Order Value, and Count across 5 categories
