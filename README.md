@@ -185,7 +185,16 @@ The project uses a **dimensional data model** with 4 tables:
 
 ---
 
-## 👤 Author
 
-**ARUN C**
-Data Analytics Learner | Excel Capstone Project
+## 👨‍💻 Author
+
+**Arun C**
+
+Data Analyst | Power BI Developer
+📧 Email: (arunchinnasamy3@gmail.com)
+
+💼 LinkedIn: (www.linkedin.com/in/arun-c-b51b4b2a2)
+
+🌐 GitHub: (arunc12)/https://github.com/arunc12
+
+If you found this project useful or have any feedback, feel free to reach out!
