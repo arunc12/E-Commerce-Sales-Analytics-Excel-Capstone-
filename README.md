@@ -198,8 +198,4 @@ Data Analyst | Power BI Developer
 
 If you found this project useful or have any feedback, feel free to reach out!
 
-💼 LinkedIn: (www.linkedin.com/in/arun-c-b51b4b2a2)
 
-🌐 GitHub: (arunc12)/https://github.com/arunc12
-
-If you found this project useful or have any feedback, feel free to reach out!
